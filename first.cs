@@ -1,1 +1,1 @@
-g
+console.writeline("f")
